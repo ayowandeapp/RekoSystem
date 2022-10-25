@@ -9,7 +9,7 @@ in the app/config file
 ```
 <?php 
 //define site url
-define('BURL','http://resys.local/'); //the localhost/folder_name
+define('BURL','http://resys.local/'); //the localhost/folder_name/public/
 /**
  * database configuration
  */
